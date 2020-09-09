@@ -19,7 +19,7 @@ namespace BD_Git_test
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            //Здесь Дэнчик слез//
         }
     }
 }
